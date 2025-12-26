@@ -8,11 +8,36 @@
 
 [![Platform](https://img.shields.io/badge/Platform-iOS%2017.0%2B-blue.svg)](https://www.apple.com/ios/)
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)](https://swift.org)
-[![License](https://img.shields.io/badge/License-Meta-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Turbo1123/turbometa-rayban-ai)](https://github.com/Turbo1123/turbometa-rayban-ai/releases)
 
 [English](./README.md) | [简体中文](./README_CN.md)
 
 </div>
+
+## 📥 Download
+
+> **No App Store submission** - Self-sign and install using tools below
+
+| Version | Download | Size |
+|---------|----------|------|
+| v1.0.0 | [**TurboMeta_unsigned.ipa**](https://github.com/Turbo1123/turbometa-rayban-ai/releases/download/v1.0.0/TurboMeta_unsigned.ipa) | 6.0 MB |
+
+### Installation Methods
+
+| Tool | Platform | Description |
+|------|----------|-------------|
+| [AltStore](https://altstore.io/) | macOS/Windows | Free, requires Apple ID |
+| [Sideloadly](https://sideloadly.io/) | macOS/Windows | Free, easy to use |
+| [爱思助手](https://www.i4.cn/) | Windows | Chinese users recommended |
+| Xcode | macOS | Build from source code |
+
+### Quick Install Steps
+1. Download `TurboMeta_unsigned.ipa` from above
+2. Open your preferred signing tool
+3. Connect iPhone and sign/install the IPA
+4. Trust developer in **Settings → General → VPN & Device Management**
+5. Open TurboMeta and configure your API Key
 
 ## 📖 Introduction
 
